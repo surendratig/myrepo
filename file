@@ -1,2 +1,7 @@
 this is for testing pull from remote flm branch to local master , and pull=fetch+merge with local branch which im in now(master)
 x=3
+
+a=3
+b=3
+c=a+b
+print(c)
